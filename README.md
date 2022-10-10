@@ -18,4 +18,4 @@ This project uses Microsoft Excel for presentation and the following Python tool
 
 ## Data
 
-The Instacart orders, products, and departments data was provided by CareerFoundry and originally sourced [here](https://www.instacart.com/datasets/grocery-shopping-2017).  The ficticious customers data provided by CareerFoundry may be accessed [here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
+The Instacart orders, products, and departments data was provided by CareerFoundry and originally sourced [here](https://www.instacart.com/datasets/grocery-shopping-2017).  The fictitious customers data provided by CareerFoundry may be accessed [here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
